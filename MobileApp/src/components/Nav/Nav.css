@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    min-height: 6vh;
+    padding-left: 2.5vw;
+    background: rgb(248, 248, 248);
+    color: rgb(10, 10, 10);
+  }
+  
+.nav-links{
+display: flex;
+justify-content: flex-end;
+align-items: center;
+list-style: none;
+}
+
+.link {
+    color:rgb(10, 10, 10);
+    padding-right:50px;
+}
+  

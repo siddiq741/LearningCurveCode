@@ -1,0 +1,49 @@
+{
+    "instructions" : "There will be One right answer for every question.Choose The right option and win points.",
+    "gameName": "Quiz1",
+    "questions" : [
+        {
+            "questionId" : 1 ,
+            "question": "Color of Rose",
+            "gameId": 1,
+            "option1":"Red",
+            "option2":"Yellow",
+            "option3":"Green",
+            "option4":"Purple",
+            "answer": 1
+        },
+    
+        {
+            "question_ID" : 2 ,
+            "question": "Wha is our national Birdb NJNJASDK XJQSNDCEJ NXJQKCN;E NKJWNFCEK AMnlkasjneak; cnkwjen?",
+            "gameId": 1,
+            "option1":"Bear",
+            "option2":"Peacock",
+            "option3":"Elephant",
+            "option4":"Tiger",
+            "answer": 2
+        },
+    
+        {
+            "question_ID" : 3 ,
+            "question": "Capital of India?",
+            "gameId": 1,
+            "option1":"Hyderabad",
+            "option2":"Mumbai",
+            "option3":"Goa",
+            "option4":"Delhi",
+            "answer": 4
+        },
+    
+        {
+            "question_ID" : 4 ,
+            "question": "Color of Sky",
+            "gameId": 1,
+            "option1":"Red",
+            "option2":"Yellow",
+            "option3":"Green",
+            "option4":"Blue",
+            "answer": 4
+        }
+    ]
+}

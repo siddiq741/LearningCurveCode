@@ -1,0 +1,92 @@
+.login-page{
+    display: flex;
+}
+
+.login-page-image{
+    width:64vw;
+    height:93.5vh;
+    overflow: hidden;
+    max-height: 100%;
+    max-width: 100%;
+}
+.login-page-heading{
+    font-size:48px;
+    text-align:center;
+    width: 100%;
+}
+.login-page-form-container{
+    width:30vw;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    padding-left: 3vw;
+    padding-right: 3vw; 
+    min-width: 400px;
+    min-width: 420px; 
+}
+.login-page-sub-heading{
+    font-size:24px;
+    text-align:center;
+    width: 100%;
+}
+
+.login-page-para{
+    font-size:16px;
+    text-align:center;
+    width: 100%;
+}
+
+.login-page-form{
+    display: flex;
+    flex-direction: column;
+    margin-left:60px;
+    margin-right:30px;
+  
+}
+
+.login-page-form-label{
+    font-size:16px;
+    text-align:start;
+    width: 100%;
+    margin-bottom:5px;
+}
+
+.login-page-form-input{
+    height:40px;
+    margin-bottom:20px;
+    font-size: 16px;
+    padding:0px 15px;
+}
+
+.login-page-form-button{
+    height:50px;
+    font-size: 16px;
+    margin-bottom:30px;
+    background:#D7464A;
+    color:white;
+    width: 40%;
+}
+
+.submit-button-and-request-access-container{
+    display: flex;
+    flex-direction: row;
+    font-size:10px;
+    justify-content: space-between;
+    margin-top:20px;
+}
+
+.request-access-container{
+    display: flex;
+    flex-direction: column;
+    max-height: 50px;
+    justify-content: flex-end;
+}
+ 
+.request-access-container p{
+    margin:0px;
+}
+.request-access{
+    font-size:12px;
+    color:#2A4FD1;
+    cursor: pointer;
+}
